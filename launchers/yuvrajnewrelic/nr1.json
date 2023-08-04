@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "yuvrajnewrelic",
+  "displayName": "Yuvrajnewrelic",
+  "description": "Describe me",
+  "rootNerdletId": "2a31f2de-a1e0-48c1-8636-dc329d724ad0.home"
+}
